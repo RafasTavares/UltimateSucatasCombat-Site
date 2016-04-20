@@ -56,7 +56,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #ff0000;
+  background-color: #780001;
   color: white;
 }
 hr.star-primary {
@@ -71,7 +71,7 @@ hr.star-roxo {
   border-color: white;
 }
 hr.star-roxo:after {
-  background-color: #8A2BE2;
+  background-color: #595959;
   color: white;
 }
 .img-centered {
@@ -159,7 +159,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #ff0000;
+  background: #780001;
   color: white;
 }
 section.success a,
@@ -286,7 +286,7 @@ section.success a.active {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #ff0000;
+  color: #780001;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
