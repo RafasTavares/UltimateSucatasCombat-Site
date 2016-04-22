@@ -44,7 +44,7 @@ hr.star-primary {
 hr.star-roxo:after,
 hr.star-light:after,
 hr.star-primary:after {
-  content: "\f11b";
+  content: "\f085";
   font-family: FontAwesome;
   display: inline-block;
   position: relative;
