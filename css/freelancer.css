@@ -31,6 +31,7 @@ h6 {
   text-transform: uppercase;
   font-weight: 700;
 }
+hr.star-vermelho,
 hr.star-roxo,
 hr.star-light,
 hr.star-primary {
@@ -41,6 +42,7 @@ hr.star-primary {
   max-width: 250px;
   margin: 25px auto 30px;
 }
+hr.star-vermelho:after,
 hr.star-roxo:after,
 hr.star-light:after,
 hr.star-primary:after {
@@ -74,6 +76,14 @@ hr.star-roxo:after {
   background-color: #595959;
   color: white;
 }
+hr.star-vermelho {
+  border-color: white;
+}
+hr.star-vermelho:after {
+  background-color: #780000;
+  color: white;
+}
+
 .img-centered {
   margin: 0 auto;
 }
