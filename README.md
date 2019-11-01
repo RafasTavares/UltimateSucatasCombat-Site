@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Primeiro GAME DAY UNIT
 
 No dia 30 de Abril de 2016 irá ocorrer o primeiro UNIT GAME DAY, realizado pelos cursos de Computação da Instituição – Ciência da Computação, Sistemas de Informação e Redes de Computadores. O objetivo é reunir os alunos, professores, funcionários e comunidade externa para diversão através de jogos. Assim como em eventos como o Lan Party, os alunos são convidados a trazerem seus equipamentos e jogos ou para jogarem em nossas instalações. Neste ano, a organização espera receber, aproximadamente, 300 participantes, divididos em modalidades como: jogos coletivos, com cinco integrantes por equipe; jogos individuais e oficinas para criação de games. Diversão, tecnologia e solidariedade, é com essa mistura que vislumbramos o maior evento de games de Aracaju e região.
@@ -21,9 +20,8 @@ O Game Day é aberto ao público e não há restrição de idade. Basta trazer 1
 
 [LOL](https://rafastavares.github.io/GameDayUnit/downloads/Regras_League of Legends.pdf)
 
-=======
+
 # UltimateSucatasCombat-Site
 Site do evento Ultimate Sucatas Combat USC
 
 http://rafastavares.github.io/UltimateSucatasCombat-Site
->>>>>>> 3b3c7b566bb6778c5361d056eeb80a480895b55a
